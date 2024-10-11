@@ -88,13 +88,18 @@ The central hub connects to a **3rd party mobile app** (e.g., Blynk) that allows
 3. **Mobile App:**
    - Download the **Blynk app** and set up an account.
    - Configure the app to receive GPS data and alerts from the central hub.
-
-## License
-This project is licensed under the **Apache 2.0 License**. See the LICENSE file for details.
-
+   - 
 ## References
 - [NADA - Catalytic Converter Theft Statistics](https://www.nada.org/legislative/fight-rising-catalytic-converter-theft)
 - [Carfax - Catalytic Converter Theft Information](https://www.carfax.com/blog/catalytic-converter-theft)
 - [Espressif - ESP32 Specifications](https://www.espressif.com/en/products/socs/esp32)
 - [SimCom - SIM7000G LTE Module](https://www.simcomm2m.com/product/SIM7000X.html)
 - [Nordic Semiconductor - nRF52840 Specifications](https://www.nordicsemi.com/products/nrf52840)
+  
+## License
+This project is licensed under the **Apache 2.0 License**. See the LICENSE file for details.
+
+**Want to Clone this Repository?**
+   ```bash
+   git clone https://github.com/MrHuangKong/Catalytic-Converter-Security-System.git
+
