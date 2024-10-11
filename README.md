@@ -90,8 +90,6 @@ The central hub connects to a **3rd party mobile app** (e.g., Blynk) that allows
    - Configure the app to receive GPS data and alerts from the central hub.
    - 
 ## References
-- [NADA - Catalytic Converter Theft Statistics](https://www.nada.org/legislative/fight-rising-catalytic-converter-theft)
-- [Carfax - Catalytic Converter Theft Information](https://www.carfax.com/blog/catalytic-converter-theft)
 - [Espressif - ESP32 Specifications](https://www.espressif.com/en/products/socs/esp32)
 - [SimCom - SIM7000G LTE Module](https://www.simcomm2m.com/product/SIM7000X.html)
 - [Nordic Semiconductor - nRF52840 Specifications](https://www.nordicsemi.com/products/nrf52840)
